@@ -39,17 +39,17 @@ Turn customer purchase-order PDFs into checked, ready-to-send PO documents.
     <td width="33%" valign="top">
       <img src=".github/assets/icons/shield-check.svg" width="28" alt=""><br>
       <b>Checks every order</b><br>
-      Vendor and price matching, totals, revisions and ship-to, with a clear reason when something needs review. Item tables drawn as a grid are read twice.
+      Vendor and price matching, totals, revisions and ship-to, with a clear reason when something needs review. Printed digits are checked against a picture of the page.
     </td>
     <td width="33%" valign="top">
       <img src=".github/assets/icons/badge-check.svg" width="28" alt=""><br>
       <b>Proven before it skips review</b><br>
-      A PO skips review only when the POs you checked prove each of its fields right, at the error limit you choose.
+      A PO skips review only when the POs you checked prove each of its fields right, at the error limit you choose. Spot checks and value limits keep you in the loop.
     </td>
     <td width="33%" valign="top">
       <img src=".github/assets/icons/list-checks.svg" width="28" alt=""><br>
-      <b>Optional checks</b><br>
-      Compare POs with your quote register or with TE order files from SupplyOn, and check scans by reading them as pictures. All off until you turn them on.
+      <b>Your own checks</b><br>
+      Write rules that hold, warn or add a note, and try them on your last 50 POs first. Quote register, SupplyOn and AI checks stay off until you turn them on.
     </td>
   </tr>
   <tr>
@@ -78,12 +78,12 @@ Turn customer purchase-order PDFs into checked, ready-to-send PO documents.
     <td width="33%" valign="top">
       <img src=".github/assets/icons/mail.svg" width="28" alt=""><br>
       <b>Microsoft 365 email</b><br>
-      Formatted messages with your logo, signature, Cc and Bcc, sent from your mailbox only when you click Send.
+      Formatted messages with your logo, signature, Cc and Bcc, plus shipment notices per PO, sent from your mailbox only when you click Send.
     </td>
     <td width="33%" valign="top">
       <img src=".github/assets/icons/package.svg" width="28" alt=""><br>
       <b>Order book</b><br>
-      Every line you send is tracked as open, part shipped, shipped, late or cancelled, with on-time-in-full for each customer.
+      Every line you send is tracked as open, part shipped, shipped, late or cancelled, with on-time-in-full for each customer and a watch on shipments not yet invoiced.
     </td>
   </tr>
   <tr>
@@ -95,12 +95,29 @@ Turn customer purchase-order PDFs into checked, ready-to-send PO documents.
     <td width="33%" valign="top">
       <img src=".github/assets/icons/fingerprint-pattern.svg" width="28" alt=""><br>
       <b>Tamper-evident records</b><br>
-      Every history entry is sealed, so a change made outside the app shows. Every price list and vendor list version is kept.
+      Every history entry is sealed, so a change made outside the app shows. Every price list version is kept, and a Privacy tab erases a person on request.
     </td>
     <td width="33%" valign="top">
       <img src=".github/assets/icons/languages.svg" width="28" alt=""><br>
       <b>English, Thai and Chinese</b><br>
       Every screen in English, ไทย or 简体中文, chosen in Settings or on first run.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <img src=".github/assets/icons/mails.svg" width="28" alt=""><br>
+      <b>Mail desk</b><br>
+      Emails with no PDF, such as push-outs, cancellations and questions, are labelled and linked to their orders, with change requests and draft replies built from the order book.
+    </td>
+    <td width="33%" valign="top">
+      <img src=".github/assets/icons/message-circle-question.svg" width="28" alt=""><br>
+      <b>Ask your records</b><br>
+      One search box over every PO, line, page and note, in English, Thai and Chinese. Each answer shows the rows behind it.
+    </td>
+    <td width="33%" valign="top">
+      <img src=".github/assets/icons/palette.svg" width="28" alt=""><br>
+      <b>Five looks</b><br>
+      A calm Enterprise look by default, with Carbon Copy, Liquid Glass, Fluent and Control a click away. Light and dark, with quick motion that stops under reduced motion.
     </td>
   </tr>
 </table>
